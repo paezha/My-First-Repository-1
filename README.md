@@ -10,3 +10,7 @@ I'm a PhD Student in Economics at the Federal University of Minas Gerais (UFMG),
 Regarding my personnal interests, I love to practice sports, hate gym but love all kind of sports. I used to play violin, actually it was my first professional activity, which I stoped to became an economist (I have no ideia why I did that..lol) but this influenced my taste of music and to enjoy going to concerts. I'm very fond of animals and I'm always open to experience different things. Of course that here I'm just going to talk about good things.
 
 So, I think this all about me.
+
+## Correction
+
+I forgot to write a desprition of the change before, so I'm doing one more change with comments.
