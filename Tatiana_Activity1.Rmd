@@ -1,0 +1,55 @@
+---
+title: "Tatiana_Activity1"
+author: "Tatiana Ferrari"
+date: "20/09/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Research Interest
+
+My mainly research interested is in the ways to promote the changing of the actuall urban mobility pattern (based on car) to a more **sustainable urban transportation** pattern. This envolves a huge field of research and to go more straight I`m interested in understand how the **urban form**, the design of the built environment can control and shape the **individual’s travel behavior**. Although the numerous researches relating the urban form and travel behavior, some of these results are still questioned, and investigation about the *degree of this influence in relation to sociodemographic characteristics* and which *aspects of urban form are relevant* are still needed. In addition, the theoretical contributions established in the literature are based in studies carried out mainly in the developed countries. There is a lack of empirical work on the subject in **developing countries**, which has different spatial dynamics that could bring other issues to the debate.
+
+
+# Favorites 
+
+## Favorite Music
+
+1. Rebirth - Angra
+2. Triste, Louca ou Ma - Francisco el Hombre
+3. Vocalise - Rachmaninoff 
+4. #41 - Dave Matthews Band
+5. Telegrama - Zeca Baleiro
+
+## Favorite Equation
+
+I say as my favorite equation the fundamental theorem of calculus. It`s a important equation, since forms the backbone of the mathematical method known as calculus, and relates differentiation and integration. The theorem simply states that the sum of infinitesimal changes in a quantity over time is equal to the integral of the rate of change of that quantity.
+
+$\int_{a}^{b} f'(x)dx = f(b) - f(a)$
+
+
+## Favorite Artists 
+
+| Name        | Achievements |
+| ------------- |:-------------:| -----:|
+| Uğur Gallenkuş  | He is an Turkish artist that works with photographers collages. The photos are justaposed in a cleverly way that shocks and make us think about of the world we live in. |
+| Tarsila do Amaral  | She is considered one of the leading Latin American modernist artists, described as the Brazilian painter who best achieved Brazilian aspirations for nationalistic expression in a modern style.|
+|Itzhak Perlman     | One of the greastest violin players of our times. |
+|Salvador Dalí | He was a famous Spanish painter. He's works has melting watches and eerie blasted landscapes, Dalí’s paintings were the epitome of Surrealism. |
+| Ricardo Darín    | An Argentine actor, screenwriter and film director. He has performed very well in several films such as: The Secret in their eyes; Truman; Chinese Take-Away; White Elephant.|
+
+# A Chunk of Code
+
+To insert a chunck code quickly press: __Ctrl+Alt+I__
+
+``` {r include=TRUE}
+library(praise)
+
+praise("${EXCLAMATION}! You have done this ${adjective}!")
+
+```
+
+
