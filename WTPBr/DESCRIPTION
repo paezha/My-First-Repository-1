@@ -1,0 +1,22 @@
+Package: WTPBr
+Type: Package
+Title: Brazil road travel Survey
+Version: 0.1.0
+Author: Tatiana Ferrari, Luiza Dusi, Fabiano Pompemayer
+Maintainer: Tatiana Ferrari <tatianak.ferrari@gmail.com>
+Description: This package was created to share data of a Survey with road passengers in Brazil, conducted by the Institute of Applied Economic Research in 2017. 
+         The survey consists of seven sections, namely: 
+         1-	Introduction and first set of social-economic data;
+         2-	Travel habits from last 12 months;
+         3-	Last or most frequent trip made by car or motorcycle in Brazilian highways;
+         4-	Stated choice experiment;
+         5-	Debrief;
+         6-	Complementary questions;
+         7-	Second set of social-economic data.
+    We also share the results of a WTP application for life and travel time saving presented in the paper: 
+    FERRARI, T.; DUSI, L.; LOPES, D.;POMPEMAYER, F. Estimativa do valor da vida estatística e valor da economia de tempo em viagens nas rodovias brasileiras
+    com a utilização de pesquisa de preferência declarada. Brasilia: IPEA, 2019. (Testo para Discussão). No prelo.
+License: 
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
