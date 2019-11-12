@@ -16,7 +16,7 @@ Description: This package was created to share data of a Survey with road passen
     We also share the results of a WTP application for life and travel time saving presented in the paper: 
     FERRARI, T.; DUSI, L.; LOPES, D.;POMPEMAYER, F. Estimativa do valor da vida estatística e valor da economia de tempo em viagens nas rodovias brasileiras
     com a utilização de pesquisa de preferência declarada. Brasilia: IPEA, 2019. (Testo para Discussão). No prelo.
-License: 
+License: CC0
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.1.1
